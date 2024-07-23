@@ -86,6 +86,7 @@
 .midof{
     background-color: #E5E7EB;
     padding:50px;
+    margin-top: 50px;
  }
  .quost{
     width: 700px;
@@ -101,6 +102,8 @@
     flex: 1;
     margin: 40px 80px 15px 0px;
     padding: 20px;
+    border-radius: 10px;
+    border-width:5px;
 }
 .thor{
     margin-left: 535px;
